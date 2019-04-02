@@ -1,0 +1,57 @@
+button, 
+form {
+	margin: 5px;
+}
+
+button {color: #343a40}
+
+.jumbotron {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: lighter;
+	background-color: #1291b8;
+	color: rgb(250, 249, 249);
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+	padding: 10px 15px;
+	margin: 6px;
+	border-radius: 10px;
+}
+
+
+button, html input[type=button], input[type=reset] {
+	background-color: #1291b8;
+	border: #1291b8;
+	color: white;
+	padding: 10px 15px;
+	margin: 6px;
+	border-radius: 10px;
+}
+
+input[type=submit] {
+background-color: #1291b8;
+border: #1291b8;
+color: white;
+padding: 10px 15px;
+margin: 6px;
+border-radius: 10px;
+}
+
+input{
+	background-color: aliceblue;
+}
+
+
+/*updates gif photo to show left to right versus just vertical */
+.item {
+	padding: 10px;
+	display: inline-block;
+}
+
+p{
+	color: #495057;	
+	/* background-color: white;
+	padding: 10px 15px;
+	margin: 6px;
+	border-radius: 10px; */
+}
